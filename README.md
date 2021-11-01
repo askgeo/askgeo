@@ -1,6 +1,6 @@
 - :droplet: Hi, I'm a water scientist interested in the interrelated relationships between rainfall, groundwater, nutrients, streams, and lakes!
 - :earth_asia: I've enjoyed building skills in statistical models, satellite remote sensing, GIS, and numerical models
-- 🌱 I’m currently scripting in Python (pandas, numpy, sklearn, GEE) and R (Shiny, leaflet). 
+- 🌱 I’m currently coding in Python (pandas, numpy, sklearn, GEE) and R (Shiny, leaflet). 
 - 📫 contact me at: abigail.s.knapp@gmail.com | @geoabby | askgeology.com
 
 <!---
