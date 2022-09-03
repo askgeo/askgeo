@@ -1,5 +1,5 @@
-- :droplet: Hi, I'm a water scientist interested in how nitrogen and carbon respond to different states of hydrologic connectivity.
-- :earth_asia: I've enjoyed building skills in statistical models, satellite remote sensing, GIS, and numerical models
+- :droplet: Hi, I'm a water scientist interested in how nitrogen and carbon respond to different states of hydrologic connectivity!
+- :earth_asia: I enjoy answering questions using reactive transport modeling, satellite remote sensing, GIS, and statistical models.
 - 🌱 I’m currently building skills in Python and R.
 - 📫 contact me at @geoabby | https://askgeo.github.io/
 
