@@ -1,7 +1,7 @@
-- :droplet: Hi, I'm a water scientist interested in the interrelated relationships between rainfall, groundwater, nutrients, streams, and lakes!
+- :droplet: Hi, I'm a water scientist interested in how nitrogen and carbon respond to different states of hydrologic connectivity.
 - :earth_asia: I've enjoyed building skills in statistical models, satellite remote sensing, GIS, and numerical models
-- 🌱 I’m currently coding in Python (pandas, numpy, sklearn, GEE) and R (Shiny, leaflet). 
-- 📫 contact me at: abigail.s.knapp@gmail.com | @geoabby | askgeology.com
+- 🌱 I’m currently building skills in Python and R.
+- 📫 contact me at @geoabby | https://askgeo.github.io/
 
 <!---
 askgeo/askgeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
